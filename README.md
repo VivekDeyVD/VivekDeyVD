@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate frontend developer and coder from India</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekdeyvd&label=Profile%20views&color=0e75b6&style=flat" alt="vivekdeyvd" /> </p>
+
+- 🌱 I’m currently learning **Reacjs**
+
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 📫 How to reach me **vivekvd35@gmail.com**
 
-- ⚡ Fun fact **I think i am Funny**
+- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vivek-dey-903663255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-dey-903663255/" height="30" width="40" /></a>
+<a href="https://instagram.com/_v.i.v.e.k.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_v.i.v.e.k.15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
